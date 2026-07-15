@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Web Developer**; I build high-performance web applications across the JavaScript ecosystem. I am highly focused on writing clean, maintainable, and scalable code paired with user-centred designs.
+I am a passionate **Web Developer** I build high-performance web applications across the JavaScript ecosystem. I am highly focused on writing clean, maintainable, and scalable code paired with user-centred designs.
 
 - 💼 Currently working at **BD Assistant Ltd** & **Premium Fruits Ltd**.
 - 🛠️ I specialize in crafting interactive UIs and solid full-stack structures.
