@@ -63,13 +63,13 @@ A passionate **Web Developer** with **2+ years of experience** building high-per
 | :--- | :--- | :--- |
 | **Premium Fruits** | E-commerce & inventory platform with real-time stock tracking and automated reporting. | React, Node.js, PostgreSQL |
 | **Premium Agro** | Grocery delivery enterprise application integrated with a farm resort booking system. | Next.js, Tailwind, MongoDB |
-| **Max Limited Broadband** | Customer-facing enterprise portal for high-speed internet management. | React, Bootstrap, Node.js |
+| **Max Limited Broadband** | Customer-facing enterprise portal for high-speed internet management. | Angular, Bootstrap |
 
 ---
 
-### 📊 GitHub Activity & Snake Game
+### 📊 GITHUB STATISTICS & ANALYSIS:
 
-🥞 **My Contribution Snake Game:**
+🥞 **GitHub Contributions:**
 ![](https://raw.githubusercontent.com/milonroy26/milonroy26/output/github-contribution-grid-snake.svg)
 
 ---
