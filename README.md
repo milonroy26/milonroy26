@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-A passionate **Web Developer** with **2+ years of experience** building high-performance web applications across the JavaScript ecosystem. Focused on writing clean, maintainable, and scalable code with user-centered designs.
+I am a passionate **Web Developer**; I build high-performance web applications across the JavaScript ecosystem. I am highly focused on writing clean, maintainable, and scalable code paired with user-centred designs.
 
 - 💼 Currently working at **BD Assistant Ltd** & **Premium Fruits Ltd**.
 - 🛠️ I specialize in crafting interactive UIs and solid full-stack structures.
@@ -28,6 +28,7 @@ A passionate **Web Developer** with **2+ years of experience** building high-per
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Material UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 #### ⚙️ Backend & Databases
@@ -37,6 +38,9 @@ A passionate **Web Developer** with **2+ years of experience** building high-per
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 #### 🛠️ Tools & DevOps
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
