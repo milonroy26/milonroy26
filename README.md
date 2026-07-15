@@ -1,50 +1,86 @@
-# Hi 👋, I'm Milon Chandro  
-### 🔭 I build things with JavaScript, React,Angular and Node.js
+# Hi there, I'm Milon Chandro! 👋
+### Web Developer | Frontend Specialist
+
+<p align="left">
+  <a href="https://milon-dev.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=435&lines=Building+Clean+Architecture;Frontend+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **SQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+### 👨‍💻 About Me
+
+A passionate **Web Developer** with **2+ years of experience** building high-performance web applications across the JavaScript ecosystem. Focused on writing clean, maintainable, and scalable code with user-centered designs.
+
+- 💼 Currently working at **BD Assistant Ltd** & **Premium Fruits Ltd**.
+- 🛠️ I specialize in crafting interactive UIs and solid full-stack structures.
+- 🎓 Holds a **Diploma in Computer Science**.
+- ⚽ When I'm not coding, you'll find me playing sports or planning my next tour.
 
 ---
 
-## 🛠️ Tech Stack  
+### 🚀 Technical Skills
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+#### 🌐 Frontend Development
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+#### ⚙️ Backend & Databases
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+#### 🛠️ Tools & DevOps
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ---
 
-## 📊 GitHub Stats  
+### 💼 Professional Journey
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+- **Junior Web Developer (Frontend)** @ **Bd Assistant**  
+  *Led frontend development of enterprise applications, building scalable UX/UI solutions for multi-vendor operations and real-time order tracking.*
+  
+- **Web Developer (Frontend)** @ **Premium Fruits Ltd & Premium Agro**  
+  *Designed a complete e-commerce platform and inventory management system with real-time stock tracking, supplier management, and automated reporting.*
+
+- **Web Developer (Frontend)** @ **Max Limited Broadband**  
+  *Led frontend development for high-speed broadband service enterprise applications.*
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+### 🏆 Selected Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Premium Fruits** | E-commerce & inventory platform with real-time stock tracking and automated reporting. | React, Node.js, PostgreSQL |
+| **Premium Agro** | Grocery delivery enterprise application integrated with a farm resort booking system. | Next.js, Tailwind, MongoDB |
+| **Max Limited Broadband** | Customer-facing enterprise portal for high-speed internet management. | React, Bootstrap, Node.js |
+
+---
+
+### 📊 GitHub Activity & Snake Game
+
+🥞 **My Contribution Snake Game:**
+![](https://raw.githubusercontent.com/milonroy26/milonroy26/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://milon-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-🌐-blue?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/milon-chandro-2236a8383/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/Milon293/" target="_blank"><img src="https://img.shields.io/badge/Facebook-👥-blue?style=flat-square" alt="Facebook" /></a>
+  <a href="mailto:milonchandro35@gmail.com"><img src="https://img.shields.io/badge/Email-📧-red?style=flat-square" alt="Email" /></a>
+</p>
+
+📬 **Let's Build Something Awesome Together!** Open to new roles, collaborations, and frontend challenges.
